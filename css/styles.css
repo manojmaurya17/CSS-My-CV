@@ -85,7 +85,7 @@ img{
     padding: 80px;
     background-image: url('../images/keyboard.jpg');
     background-size: 100%;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     
 }
 
