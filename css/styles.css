@@ -11,7 +11,7 @@ body{
 
 h1{
     color: #FFFFFF;
-    margin: 100px auto 0;
+    margin: 6.25rem auto 0;
     font-family: 'Alex Brush',cursive,sans-serif;
     font-size: 5.625rem;
 }
@@ -58,22 +58,22 @@ img{
 /*=============== class based css =====================*/
 
 .programmer-title{
-    margin-top: 50px;
+    margin-top: 3.125rem;
 }
 
 .programmer{
     font-weight: normal;
     position: relative;
-    bottom: 120px;
-    left: 40px;
+    bottom: 7.5rem;
+    left: 2.5rem;
     color: #FFFFFF;
 }
 
 .code{
     position: relative;
-    right: 150px;
+    right: 9.375rem;
     filter: invert();
-    padding-right: 20px;
+    padding-right: 1.25rem;
 }
 
 
@@ -82,16 +82,16 @@ img{
     /* background-color: #e4f9f5; */
     /* background-color: #eeeeee; */
     position: relative;
-    padding: 80px;
+    padding: 5rem;
     background-image: url('../images/keyboard.jpg');
-    background-size: 100%;
+    background-size: cover;
     /* background-repeat: no-repeat; */
     
 }
 
 .second-container{
     background-color: #00adb5;
-    padding: 100px;
+    padding: 6.25rem;
 }
 
 .third-continer{
@@ -100,22 +100,22 @@ img{
     /* background-color: #6639a6; */
     /* background-color: #1e56a0; */
     background-color: #00204a;
-    padding: 100px;
+    padding: 6.25rem;
 }
 
 
 .forth-container{
     background-color: #700961;
-    padding: 100px;
+    padding: 6.25rem;
 }
 
 .fifth-container{
     background-color: #79a8a9;
-    padding: 100px;
+    padding: 6.25rem;
 }
 
 .middle-container{
-    padding: 100px 0;
+    padding: 6.25rem 0;
     /* background-color: #d4d7dd; */
     background-color: #f4f4f4;
     
@@ -124,43 +124,43 @@ img{
 
 .skill-row{
     width: 50%;
-    margin: 100px auto 100px auto;
+    margin: 6.25rem auto 6.25rem auto;
     text-align: left;
 }
 
 .bottom-cloud{
     position: absolute;
-    left: 300px;
-    bottom: 300px;
+    left: 18.75rem;
+    bottom: 18.75rem;
 
 }
 
 .top-cloud{
     position: absolute;
-    top: 50px;
-    right: 300px;
+    top: 3.125rem;
+    right: 18.75rem;
 }
 
 
 .skill-left-img{
     width: 25%;
     float: left;
-    margin-right: 30px;
+    margin-right: 1.875rem;
 }
 
 .skill-right-img{
     width: 25%;
     float: right;
-    margin-left: 30px;
+    margin-left: 1.875rem;
 }
 .btn {
     
-    border-radius: 8px;
+    border-radius: 0.5rem;
     color: #FFFFFF;
     font-family: 'Jura', sans-serif;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 400;
-    padding: 10px 20px;
+    padding: 0.625rem 1.25rem;
     background-color: #66BFBF;
     text-decoration: none;
     display: inline-block;
@@ -180,7 +180,7 @@ img{
     background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
-    border-radius: 8px;
+    border-radius: 0.5rem;
     text-decoration: none;
  }
 
@@ -190,33 +190,27 @@ img{
      margin: auto;
     }
 
- .horizontal-line{
-     border: none;
-     border-top: dotted 5px #030707dc;
-     width: 5%;
-     margin: 100px auto;
- }
 
  .contact-me{
-     margin:100px;
+     margin:6.25rem;
      line-height: 2;
  }
 
  .bottom-container{
      /* background-color: #66bfbf; */
      background-color: #222831;
-     padding: 30px;
+     padding: 1.875rem;
  }
 
 
  .copy-right{
      color: #ffffff;
      font-size: 0.75rem;
-     padding: 20px 0;
+     padding: 1.25rem 0;
  }
 
  .contact-me-desc{
      width: 40%;
-     margin: 40px auto 60px;
+     margin: 2.5rem auto 3.75rem;
 
  }
