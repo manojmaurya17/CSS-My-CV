@@ -42,7 +42,7 @@ p{
 
 a{
     text-decoration: none;
-    margin: 10px 20px;
+    margin: 0.625rem 1.25rem;
     font-family: 'Jura', sans-serif;
 }
 
@@ -52,7 +52,7 @@ a:hover{
 
 img{
     color: #FFFFFF;
-    width: 100px;
+    width: 6.25rem;
 }
 
 /*=============== class based css =====================*/
